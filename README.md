@@ -88,3 +88,27 @@ disasters are not randomly assigned.
 * Screen (A) depends on the shipped SAFMR file; 21 recipients have no SAFMR and are treated as not exempt under (A).
 * **The permit comparison has an arbitrary control event year.** Jurisdictions with no qualifying declaration are scored against a fixed 2019 anchor, and a jurisdiction declared in 2016 or 2017 falls into that control group. Urban counties are excluded from the comparison because their permits cover the whole county while the unit panel counts only the funded area.
 * **The rolling exemption rate rests on seven windows**, not ten: the 2020, 2021 and 2022 anchors contain the county-level March–April 2020 COVID-19 designations, leaving 2017–2019 and 2023–2026. Statewide COVID rows carrying no county code are excluded throughout, as they designate no area.
+
+## Licence and reuse
+
+The code in this repository is MIT-licensed — see `LICENSE`. Use it, change it,
+publish what you find.
+
+The data is a different matter and mostly not mine to license. The underlying
+sources are works of the United States government and are not subject to
+copyright under 17 U.S.C. § 105:
+
+* housing units, home values and vacancy rates — U.S. Census Bureau, ACS 5-year
+* units authorised — U.S. Census Bureau, Building Permits Survey
+* disaster declarations — FEMA, OpenFEMA
+* CDBG entitlement awards and Small Area Fair Market Rents — U.S. Department of Housing and Urban Development
+
+What is mine is the compilation: the recipient universe, the many-to-many
+jurisdiction-to-county crosswalk, the urban-county carve-out shares, and the
+derived outputs in `outputs/` and `figures/`. Those are offered under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — attribution is all
+I ask, and a link back to the article is plenty.
+
+`cache/` and `outputs/results.csv` are reproducible from the script; the cache
+is gitignored, and the results file is committed so the numbers can be checked
+without a Census API key.
