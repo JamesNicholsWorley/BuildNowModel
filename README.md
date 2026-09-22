@@ -106,9 +106,7 @@ copyright under 17 U.S.C. § 105:
 What is mine is the compilation: the recipient universe, the many-to-many
 jurisdiction-to-county crosswalk, the urban-county carve-out shares, and the
 derived outputs in `outputs/` and `figures/`. Those are offered under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — attribution is all
-I ask, and a link back to the article is plenty.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — a link back to the article is plenty.
 
-`cache/` and `outputs/results.csv` are reproducible from the script; the cache
-is gitignored, and the results file is committed so the numbers can be checked
+The results file is committed so the numbers can be checked
 without a Census API key.
