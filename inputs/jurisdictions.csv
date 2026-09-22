@@ -1,0 +1,1210 @@
+geoid,name,state,type,geoid_type,cdbg_fy25
+0101852,Anniston,AL,Principal City,place,519183
+0103076,Auburn,AL,Principal City,place,702799
+0105980,Bessemer,AL,Metro City,place,638197
+0107000,Birmingham,AL,Principal City,place,5733710
+0120104,Decatur,AL,Principal City,place,424836
+0121184,Dothan,AL,Principal City,place,537195
+0126896,Florence,AL,Principal City,place,321351
+0128696,Gadsden,AL,Principal City,place,900286
+0137000,Huntsville,AL,Principal City,place,1400900
+01073,Jefferson County,AL,Urban County,county,2114163
+0150000,Mobile,AL,Principal City,place,2336237
+01097,Mobile County,AL,Urban County,county,1608060
+0151000,Montgomery,AL,Principal City,place,1766448
+0157048,Opelika,AL,Principal City,place,305551
+01117,Shelby County,AL,Urban County,county,878552
+0177256,Tuscaloosa,AL,Principal City,place,877797
+0203000,Anchorage,AK,Principal City,place,1899998
+0404720,Avondale,AZ,Metro City,place,695530
+0410530,Casa Grande,AZ,Metro City,place,459381
+0412000,Chandler,AZ,Metro City,place,1486156
+0420050,Douglas,AZ,Principal City,place,183562
+0423620,Flagstaff,AZ,Principal City,place,656638
+0427400,Gilbert,AZ,Metro City,place,1112194
+0427820,Glendale,AZ,Principal City,place,2376397
+0428380,Goodyear,AZ,Metro City,place,415122
+0444270,Marana,AZ,Metro City,place,207209
+04013,Maricopa County,AZ,Urban County,county,2940912
+0446000,Mesa,AZ,Principal City,place,3675410
+0454050,Peoria,AZ,Metro City,place,972829
+0455000,Phoenix,AZ,Principal City,place,14389727
+04019,Pima County,AZ,Urban County,county,2593824
+04021,Pinal County,AZ,Urban County,county,1825148
+0457380,Prescott,AZ,Principal City,place,275024
+0457450,Prescott Valley,AZ,Principal City,place,292411
+0465000,Scottsdale,AZ,Principal City,place,1059148
+0466820,Sierra Vista,AZ,Principal City,place,245367
+0471510,Surprise,AZ,Metro City,place,748125
+0473000,Tempe,AZ,Principal City,place,1533148
+0477000,Tucson,AZ,Principal City,place,5108670
+0485540,Yuma,AZ,Principal City,place,984398
+0505320,Bentonville,AR,Principal City,place,296575
+0515190,Conway,AR,Principal City,place,510478
+0523290,Fayetteville,AR,Principal City,place,834927
+0524550,Fort Smith,AR,Principal City,place,812726
+0533400,Hot Springs,AR,Principal City,place,419586
+0534750,Jacksonville,AR,Metro City,place,254968
+0535710,Jonesboro,AR,Principal City,place,728792
+0541000,Little Rock,AR,Principal City,place,1546201
+0550450,North Little Rock,AR,Principal City,place,632968
+0555310,Pine Bluff,AR,Principal City,place,641918
+0560410,Rogers,AR,Principal City,place,529688
+0566080,Springdale,AR,Principal City,place,862531
+0568810,Texarkana,AR,Metro City,place,300959
+0574540,West Memphis,AR,Metro City,place,241307
+0600562,Alameda,CA,Metro City,place,1096362
+06001,Alameda County,CA,Urban County,county,1998590
+0600884,Alhambra,CA,Metro City,place,815800
+0600947,Aliso Viejo,CA,Metro City,place,281469
+0602000,Anaheim,CA,Principal City,place,4066241
+0602252,Antioch,CA,Metro City,place,911040
+0602364,Apple Valley,CA,Metro City,place,700456
+0603526,Bakersfield,CA,Principal City,place,4054795
+0603666,Baldwin Park,CA,Metro City,place,850026
+0604982,Bellflower,CA,Metro City,place,943279
+0606000,Berkeley,CA,Principal City,place,2593026
+0608786,Buena Park,CA,Metro City,place,751385
+0608954,Burbank,CA,Principal City,place,1072998
+0610046,Camarillo,CA,Principal City,place,345293
+0611194,Carlsbad,CA,Principal City,place,562903
+0611530,Carson,CA,Principal City,place,693996
+0612048,Cathedral,CA,Metro City,place,511608
+0613014,Chico,CA,Principal City,place,992809
+0613210,Chino,CA,Principal City,place,585259
+0613214,Chino Hills,CA,Metro City,place,400713
+0613392,Chula Vista,CA,Metro City,place,2346364
+0613588,Citrus Heights,CA,Metro City,place,633964
+0614218,Clovis,CA,Metro City,place,710759
+0615044,Compton,CA,Metro City,place,1340424
+0616000,Concord,CA,Metro City,place,987662
+06013,Contra Costa Co.,CA,Urban County,county,4727157
+0616350,Corona,CA,Principal City,place,1085264
+0616532,Costa Mesa,CA,Principal City,place,907261
+0617610,Cupertino,CA,Principal City,place,354559
+0617918,Daly,CA,Metro City,place,929286
+0618100,Davis,CA,Metro City,place,730016
+0618394,Delano,CA,Metro City,place,513901
+0619766,Downey,CA,Metro City,place,1020836
+0621712,El Cajon,CA,Metro City,place,1279875
+0621782,El Centro,CA,Principal City,place,502738
+0622230,El Monte,CA,Metro City,place,1491385
+0622020,Elk Grove,CA,Metro City,place,1026617
+0622678,Encinitas,CA,Metro City,place,287051
+0622804,Escondido,CA,Metro City,place,1341561
+0623182,Fairfield,CA,Principal City,place,847959
+0624680,Fontana,CA,Metro City,place,1942933
+0625380,Fountain Valley,CA,Principal City,place,301182
+0626000,Fremont,CA,Metro City,place,1579819
+0627000,Fresno,CA,Principal City,place,7098936
+06019,Fresno County,CA,Urban County,county,3172269
+0628000,Fullerton,CA,Metro City,place,1397459
+0629000,Garden Grove,CA,Metro City,place,1872282
+0628168,Gardena,CA,Principal City,place,604162
+0629504,Gilroy,CA,Metro City,place,380083
+0630000,Glendale,CA,Principal City,place,1738811
+0630014,Glendora City,CA,Metro City,place,296115
+0630378,Goleta,CA,Metro City,place,320925
+0631960,Hanford,CA,Principal City,place,523508
+0632548,Hawthorne,CA,Metro City,place,1149498
+0633000,Hayward,CA,Principal City,place,1542637
+0633182,Hemet,CA,Metro City,place,894066
+0633434,Hesperia,CA,Metro City,place,946179
+0636000,Huntington Beach,CA,Metro City,place,1077252
+0636056,Huntington Park,CA,Metro City,place,544838
+0636448,Indio,CA,Metro City,place,748597
+0636546,Inglewood,CA,Metro City,place,1244649
+0636770,Irvine,CA,Principal City,place,2410854
+0637692,Jurupa Valley,CA,Metro City,place,1026523
+06029,Kern County,CA,Urban County,county,4446861
+0639290,La Habra,CA,Metro City,place,556264
+0640004,La Mesa,CA,Metro City,place,456031
+0639248,Laguna Niguel,CA,Metro City,place,350812
+0639496,Lake Forest,CA,Metro City,place,518662
+0639892,Lakewood,CA,Metro City,place,460105
+0640130,Lancaster,CA,Metro City,place,1506698
+0641474,Lincoln,CA,Metro City,place,259685
+0641992,Livermore,CA,Metro City,place,396908
+0642202,Lodi,CA,Principal City,place,655037
+0642524,Lompoc,CA,Metro City,place,480984
+0643000,Long Beach,CA,Principal City,place,4923908
+0644000,Los Angeles,CA,Principal City,place,48007436
+06037,Los Angeles County,CA,Urban County,county,19508115
+0644574,Lynwood,CA,Metro City,place,946233
+0645022,Madera,CA,Principal City,place,989791
+06041,Marin County,CA,Urban County,county,1512738
+0646842,Menifee,CA,Metro City,place,630907
+0646898,Merced,CA,Principal City,place,1089413
+0647766,Milpitas,CA,Principal City,place,555374
+0648256,Mission Viejo,CA,Metro City,place,389068
+0648354,Modesto,CA,Principal City,place,1898921
+0648816,Montebello,CA,Metro City,place,628319
+0648872,Monterey,CA,Metro City,place,248442
+06053,Monterey County,CA,Urban County,county,1361629
+0648914,Monterey Park,CA,Principal City,place,563008
+0649270,Moreno Valley,CA,Metro City,place,1954015
+0649670,Mountain View,CA,Principal City,place,617916
+0650258,Napa City,CA,Principal City,place,591772
+0650398,National,CA,Metro City,place,700241
+0651182,Newport Beach,CA,Principal City,place,402015
+0652526,Norwalk,CA,Metro City,place,940871
+0653000,Oakland,CA,Principal City,place,7412561
+0653322,Oceanside,CA,Metro City,place,1236259
+0653896,Ontario,CA,Principal City,place,1839944
+0653980,Orange,CA,Principal City,place,1010888
+06059,Orange County,CA,Urban County,county,3467220
+0654652,Oxnard,CA,Principal City,place,2074781
+0655254,Palm Springs,CA,Metro City,place,350999
+0655156,Palmdale,CA,Metro City,place,1407911
+0655282,Palo Alto,CA,Principal City,place,516233
+0655520,Paradise,CA,Metro City,place,47069
+0655618,Paramount,CA,Metro City,place,701752
+0656000,Pasadena,CA,Principal City,place,2147455
+0656700,Perris,CA,Metro City,place,940237
+0656784,Petaluma,CA,Metro City,place,306305
+0656924,Pico Rivera,CA,Metro City,place,611687
+0657456,Pittsburg,CA,Metro City,place,652097
+0657792,Pleasanton,CA,Principal City,place,381455
+0658072,Pomona,CA,Metro City,place,1690554
+0658240,Porterville,CA,Principal City,place,653932
+0659444,Rancho Cordova,CA,Principal City,place,677844
+0659451,Rancho Cucamonga,CA,Metro City,place,1045705
+0659587,Rancho Santa Margarita,CA,Metro City,place,213967
+0659920,Redding,CA,Principal City,place,677110
+0660018,Redondo Beach,CA,Metro City,place,295609
+0660102,Redwood,CA,Principal City,place,654563
+0660466,Rialto,CA,Metro City,place,1131371
+0662000,Riverside,CA,Principal City,place,2849347
+06065,Riverside County,CA,Urban County,county,7689351
+0662364,Rocklin,CA,Metro City,place,296156
+0662896,Rosemead,CA,Metro City,place,533439
+0662938,Roseville,CA,Principal City,place,701373
+0664000,Sacramento,CA,Principal City,place,4638977
+06067,Sacramento County,CA,Urban County,county,6030715
+0664224,Salinas,CA,Principal City,place,2179417
+0665000,San Bernardino,CA,Principal City,place,2712293
+06071,San Bernardino Co.,CA,Urban County,county,6686990
+0665042,San Buenaventura,CA,Principal City,place,704658
+0665084,San Clemente,CA,Metro City,place,310995
+0666000,San Diego,CA,Principal City,place,11028872
+06073,San Diego County,CA,Urban County,county,4232730
+0667000,San Francisco,CA,Principal City,place,18798493
+06077,San Joaquin County,CA,Urban County,county,2941788
+0668000,San Jose,CA,Principal City,place,7836902
+0668084,San Leandro,CA,Principal City,place,765834
+06079,San Luis Obispo County,CA,Urban County,county,1893580
+0668196,San Marcos,CA,Metro City,place,703648
+0668252,San Mateo,CA,Metro City,place,766315
+06081,San Mateo County,CA,Urban County,county,2315528
+0669000,Santa Ana,CA,Principal City,place,4190178
+0669070,Santa Barbara,CA,Principal City,place,847812
+06083,Santa Barbara Co.,CA,Urban County,county,1177513
+0669084,Santa Clara,CA,Principal City,place,1019135
+06085,Santa Clara County,CA,Urban County,county,1380034
+0669088,Santa Clarita,CA,Metro City,place,1453594
+0669112,Santa Cruz,CA,Principal City,place,527892
+0669196,Santa Maria,CA,Principal City,place,1404326
+0670000,Santa Monica,CA,Principal City,place,1114932
+0670098,Santa Rosa,CA,Principal City,place,1286368
+0670224,Santee,CA,Metro City,place,375277
+0670742,Seaside,CA,Metro City,place,304867
+0672016,Simi Valley,CA,Metro City,place,657452
+06097,Sonoma County,CA,Urban County,county,1652484
+0673080,South Gate,CA,Metro City,place,1192638
+0673262,South San Francisco,CA,Principal City,place,456319
+06099,Stanislaus County,CA,Urban County,county,2302867
+0675000,Stockton,CA,Principal City,place,3229216
+0677000,Sunnyvale,CA,Principal City,place,1038891
+0678120,Temecula,CA,Principal City,place,606465
+0678582,Thousand Oaks,CA,Principal City,place,648249
+0680000,Torrance,CA,Principal City,place,947578
+0680644,Tulare,CA,Metro City,place,714971
+0680812,Turlock,CA,Metro City,place,636784
+0680854,Tustin,CA,Principal City,place,725229
+0681204,Union,CA,Metro City,place,474879
+0681344,Upland,CA,Metro City,place,612647
+0681554,Vacaville,CA,Metro City,place,527680
+0681666,Vallejo,CA,Principal City,place,991521
+06111,Ventura County,CA,Urban County,county,1454583
+0682590,Victorville,CA,Principal City,place,1409225
+0682954,Visalia,CA,Principal City,place,1139838
+0682996,Vista,CA,Metro City,place,976361
+0683346,Walnut Creek,CA,Principal City,place,401430
+0683668,Watsonville,CA,Principal City,place,634804
+0684200,West Covina,CA,Metro City,place,819862
+0684816,West Sacramento,CA,Metro City,place,546333
+0684550,Westminster,CA,Metro City,place,970291
+0685292,Whittier,CA,Metro City,place,641146
+0686328,Woodland,CA,Metro City,place,473643
+0686972,Yuba,CA,Principal City,place,585041
+08001,Adams County,CO,Urban County,county,1233556
+08005,Arapahoe County,CO,Urban County,county,1283130
+0803455,Arvada,CO,Metro City,place,451371
+0804000,Aurora,CO,Principal City,place,2702077
+0807850,Boulder City,CO,Principal City,place,869873
+0809280,Broomfield /County,CO,Principal City,place,284341
+0812415,Castle Rock,CO,Metro City,place,277742
+0816000,Colorado Springs,CO,Principal City,place,2854333
+0816495,Commerce,CO,Metro City,place,469128
+0820000,Denver,CO,Principal City,place,6585718
+08041,El Paso County,CO,Urban County,county,1087577
+0827425,Fort Collins,CO,Principal City,place,1152451
+0831660,Grand Junction,CO,Principal City,place,407684
+0832155,Greeley,CO,Principal City,place,846546
+08059,Jefferson County,CO,Urban County,county,1009071
+0843000,Lakewood,CO,Principal City,place,911186
+0845970,Longmont,CO,Metro City,place,488849
+0846465,Loveland,CO,Metro City,place,377934
+0862000,Pueblo,CO,Principal City,place,1432469
+0877290,Thornton,CO,Metro City,place,811771
+08123,Weld County,CO,Urban County,county,1251662
+0883835,Westminster,CO,Metro City,place,563889
+0908000,Bridgeport,CT,Principal City,place,3100412
+0908420,Bristol,CT,Metro City,place,539149
+0918430,Danbury,CT,Principal City,place,590036
+0922700,East Hartford,CT,Principal City,place,515368
+0912026620,Fairfield,CT,Metro City,cousub,441600
+0933690,Greenwich,CT,Metro City,place,723939
+0917035650,Hamden Town,CT,Metro City,cousub,458833
+0937000,Hartford,CT,Principal City,place,3476365
+0944690,Manchester,CT,Metro City,place,566960
+0946450,Meriden,CT,Metro City,place,927552
+0947290,Middletown,CT,Principal City,place,502177
+0947515,Milford Town,CT,Principal City,place,518282
+0950370,New Britain,CT,Metro City,place,1554807
+0952000,New Haven,CT,Principal City,place,3446062
+0952280,New London,CT,Principal City,place,791387
+0955990,Norwalk,CT,Principal City,place,831261
+0956200,Norwich,CT,Principal City,place,838095
+0968100,Shelton,CT,Principal City,place,181656
+0973000,Stamford,CT,Principal City,place,989095
+0912074190,Stratford,CT,Principal City,cousub,586729
+0980000,Waterbury,CT,Metro City,place,2176880
+0982660,West Hartford,CT,Metro City,place,995108
+0982800,West Haven,CT,Metro City,place,615097
+1021200,Dover,DE,Principal City,place,321933
+10003,New Castle County,DE,Urban County,county,2509120
+1077580,Wilmington,DE,Principal City,place,2261378
+1207300,Boca Raton,FL,Principal City,place,516588
+1207875,Boynton Beach,FL,Metro City,place,518962
+1207950,Bradenton,FL,Principal City,place,447763
+12009,Brevard County,FL,Urban County,county,1350422
+12011,Broward County,FL,Urban County,county,3978959
+1210275,Cape Coral,FL,Principal City,place,1110919
+12019,Clay County,FL,Urban County,county,1060250
+1212875,Clearwater,FL,Principal City,place,925886
+1213150,Cocoa,FL,Metro City,place,105087
+12021,Collier County,FL,Urban County,county,2677254
+1214400,Coral Springs,FL,Metro City,place,794085
+1215475,Crestview,FL,Metro City,place,164652
+1216475,Davie,FL,Metro City,place,714145
+1216525,Daytona Beach,FL,Principal City,place,619516
+1216725,Deerfield Beach,FL,Principal City,place,721028
+1217100,Delray Beach,FL,Principal City,place,457791
+1217200,Deltona,FL,Principal City,place,528176
+12033,Escambia County,FL,Urban County,county,1806149
+1224300,Fort Pierce,FL,Metro City,place,574680
+1224475,Fort Walton Beach,FL,Principal City,place,132070
+1224000,Ft Lauderdale,FL,Principal City,place,1518117
+1224125,Ft Myers,FL,Principal City,place,738136
+1225175,Gainesville,FL,Principal City,place,1442129
+12053,Hernando County,FL,Urban County,county,1137403
+1230000,Hialeah,FL,Metro City,place,2427498
+12057,Hillsborough County,FL,Urban County,county,7456094
+1232000,Hollywood,FL,Metro City,place,1249460
+1232275,Homestead,FL,Metro City,place,878963
+12031,Jacksonville,FL,Urban County,county,6940619
+1235875,Jupiter,FL,Principal City,place,312843
+1236950,Kissimmee,FL,Principal City,place,1000854
+12069,Lake County,FL,Urban County,county,1848798
+1238250,Lakeland,FL,Principal City,place,825858
+1239425,Largo,FL,Principal City,place,587919
+1239550,Lauderhill,FL,Metro City,place,780917
+12071,Lee County,FL,Urban County,county,3044711
+12081,Manatee County,FL,Urban County,county,1833537
+12083,Marion County,FL,Urban County,county,2173037
+1243975,Melbourne,FL,Principal City,place,603059
+1245000,Miami,FL,Principal City,place,5026283
+1245025,Miami Beach,FL,Principal City,place,858270
+1245060,Miami Gardens,FL,Metro City,place,970105
+12086,Miami-Dade County,FL,Urban County,county,13151137
+1245975,Miramar,FL,Metro City,place,824752
+1249450,North Miami,FL,Metro City,place,765353
+1250750,Ocala,FL,Principal City,place,510378
+12095,Orange County,FL,Urban County,county,7439307
+1253000,Orlando,FL,Principal City,place,2522385
+12097,Osceola County,FL,Urban County,county,1634093
+1254000,Palm Bay,FL,Principal City,place,814260
+12099,Palm Beach County,FL,Urban County,county,6609628
+1254075,Palm Beach Gardens,FL,Metro City,place,260237
+1254200,Palm Coast,FL,Metro City,place,462211
+1254700,Panama,FL,Principal City,place,360009
+1254725,Panama  Beach,FL,Principal City,place,105177
+12101,Pasco County,FL,Urban County,county,3160581
+1255775,Pembroke Pines,FL,Metro City,place,1125411
+1255925,Pensacola,FL,Principal City,place,753536
+12103,Pinellas County,FL,Urban County,county,2339516
+1256975,Pinellas Park,FL,Metro City,place,361300
+1257425,Plantation,FL,Metro City,place,630799
+12105,Polk County,FL,Urban County,county,4234555
+1258050,Pompano Beach,FL,Principal City,place,1024414
+1258575,Port Orange,FL,Metro City,place,354806
+1258715,Port St Lucie,FL,Principal City,place,1086454
+1263650,Sanford,FL,Principal City,place,437753
+1264175,Sarasota City,FL,Principal City,place,371559
+12115,Sarasota County,FL,Urban County,county,1767490
+1264825,Sebastian,FL,Principal City,place,116320
+12117,Seminole County,FL,Urban County,county,2292412
+1263000,St Petersburg,FL,Principal City,place,1744727
+1262625,St. Cloud,FL,Metro City,place,345240
+12109,St. Johns County,FL,Urban County,county,1138383
+1269700,Sunrise,FL,Metro City,place,675995
+1270600,Tallahassee,FL,Principal City,place,1880342
+1270675,Tamarac,FL,Metro City,place,496342
+1271000,Tampa,FL,Principal City,place,3057626
+1271900,Titusville,FL,Principal City,place,280901
+12127,Volusia County,FL,Urban County,county,1718768
+1275812,Wellington,FL,Metro City,place,289551
+1276600,West Palm Beach,FL,Principal City,place,970113
+1301052,Albany,GA,Principal City,place,734345
+13059,Athens-Clarke County,GA,Principal City,county,1221913
+1304000,Atlanta,GA,Principal City,place,6602130
+13245,Augusta-Richmond County,GA,Principal City,county,1686245
+1310944,Brookhaven,GA,Metro City,place,349486
+1311560,Brunswick,GA,Principal City,place,384717
+13057,Cherokee County,GA,Urban County,county,1127016
+13063,Clayton County,GA,Urban County,county,2461457
+13067,Cobb County,GA,Urban County,county,3420467
+13215,Columbus-Muscogee County,GA,Principal City,county,1690979
+1321380,Dalton,GA,Principal City,place,312286
+13089,De Kalb County,GA,Urban County,county,4639475
+13121,Fulton County,GA,Urban County,county,1254161
+1331908,Gainesville,GA,Principal City,place,406937
+13135,Gwinnett County,GA,Urban County,county,5816102
+13151,Henry County,GA,Urban County,county,1175509
+1338964,Hinesville,GA,Principal City,place,254726
+1342425,Johns Creek,GA,Metro City,place,307314
+1349008,Macon-Bibb County,GA,Principal City,place,1834622
+1349756,Marietta,GA,Principal City,place,417640
+1366668,Rome,GA,Principal City,place,418859
+1367284,Roswell,GA,Principal City,place,400668
+1368516,Sandy Springs,GA,Principal City,place,485216
+1369000,Savannah,GA,Principal City,place,2212947
+1372122,South Fulton,GA,Metro City,place,534631
+1378800,Valdosta,GA,Principal City,place,600391
+1380508,Warner Robins,GA,Principal City,place,495380
+15001,Hawaii Co,HI,Hawaii County,county,2743195
+15003,Honolulu,HI,Principal City,county,7882630
+15007,Kauai,HI,Hawaii County,county,738234
+15009,Maui Co,HI,Hawaii County,county,1889272
+1608830,Boise,ID,Principal City,place,1367844
+1612250,Caldwell,ID,Metro City,place,464994
+1616750,Coeur D'Alene,ID,Principal City,place,290998
+1639700,Idaho Falls,ID,Principal City,place,412342
+1646540,Lewiston,ID,Principal City,place,251391
+1652120,Meridian,ID,Metro City,place,523218
+1656260,Nampa,ID,Metro City,place,653242
+1664090,Pocatello,ID,Principal City,place,380283
+1682810,Twin Falls,ID,Principal City,place,332639
+1702154,Arlington Heights,IL,Principal City,place,332747
+1703012,Aurora,IL,Metro City,place,1192246
+1705573,Berwyn,IL,Metro City,place,1410085
+1706613,Bloomington,IL,Principal City,place,543236
+1712385,Champaign,IL,Principal City,place,766743
+1714000,Chicago,IL,Principal City,place,74498058
+1714351,Cicero,IL,Metro City,place,1751533
+17031,Cook County,IL,Urban County,county,10516157
+1718563,Danville,IL,Principal City,place,946586
+1718823,Decatur,IL,Principal City,place,1313759
+1719161,Dekalb,IL,Metro City,place,400667
+1719642,Des Plaines,IL,Principal City,place,316052
+17043,Dupage County,IL,Urban County,county,3703858
+1723074,Elgin,IL,Principal City,place,763920
+1724582,Evanston,IL,Principal City,place,1699600
+1735411,Hoffman Estates,IL,Principal City,place,229562
+1738570,Joliet,IL,Metro City,place,926791
+17089,Kane County,IL,Urban County,county,1260181
+1738934,Kankakee,IL,Principal City,place,589549
+17097,Lake County,IL,Urban County,county,2890601
+17119,Madison County,IL,Urban County,county,2773468
+17111,Mchenry County,IL,Urban County,county,1308967
+1749867,Moline,IL,Principal City,place,817172
+1751089,Mount Prospect,IL,Metro City,place,292098
+1751622,Naperville,IL,Principal City,place,566641
+1753234,Normal,IL,Metro City,place,451114
+1754885,Oak Park,IL,Metro City,place,1574409
+1757225,Palatine Village,IL,Metro City,place,462638
+1758447,Pekin,IL,Metro City,place,438443
+1759000,Peoria,IL,Principal City,place,1828722
+1762783,Rantoul,IL,Metro City,place,314842
+1765078,Rock Island,IL,Principal City,place,1037034
+1765000,Rockford,IL,Principal City,place,2254724
+1768003,Schaumburg Village,IL,Principal City,place,403348
+1770122,Skokie,IL,Principal City,place,532514
+1772000,Springfield,IL,Principal City,place,1288399
+17163,St. Clair County,IL,Urban County,county,3438146
+1777005,Urbana,IL,Principal City,place,392195
+1779293,Waukegan,IL,Metro City,place,735595
+17197,Will County,IL,Urban County,county,2089349
+1801468,Anderson,IN,Principal City,place,916076
+1805860,Bloomington,IN,Principal City,place,778293
+1814734,Columbus,IN,Principal City,place,302484
+1819486,East Chicago,IN,Metro City,place,1219342
+1820728,Elkhart,IN,Principal City,place,712246
+1822000,Evansville,IN,Principal City,place,2485311
+1825000,Fort Wayne,IN,Principal City,place,1880267
+1827000,Gary,IN,Principal City,place,3210180
+1828386,Goshen,IN,Principal City,place,274772
+1829898,Greenwood,IN,Metro City,place,292739
+18057,Hamilton County,IN,Urban County,county,1146153
+1831000,Hammond,IN,Metro City,place,2043773
+18097,Indianapolis,IN,Principal City,county,8860390
+1838358,Jeffersonville,IN,Metro City,place,270412
+1840392,Kokomo,IN,Principal City,place,725033
+1842246,La Porte,IN,Principal City,place,438197
+1840788,Lafayette,IN,Principal City,place,640832
+18089,Lake County,IN,Urban County,county,1629279
+1848798,Michigan,IN,Principal City,place,658791
+1849932,Mishawaka,IN,Principal City,place,468014
+1851876,Muncie,IN,Principal City,place,1242123
+1852326,New Albany,IN,Metro City,place,691524
+1871000,South Bend,IN,Principal City,place,2366486
+1875428,Terre Haute,IN,Principal City,place,1423909
+1882862,West Lafayette,IN,Principal City,place,436964
+1901855,Ames,IA,Principal City,place,552927
+1911755,Cedar Falls,IA,Principal City,place,278127
+1912000,Cedar Rapids,IA,Principal City,place,1106823
+1916860,Council Bluffs,IA,Principal City,place,983484
+1919000,Davenport,IA,Principal City,place,1574080
+1921000,Des Moines,IA,Principal City,place,3760013
+1922395,Dubuque,IA,Principal City,place,1037080
+1938595,Iowa,IA,Principal City,place,741332
+19153,Polk County,IA,Urban County,county,846324
+1973335,Sioux,IA,Principal City,place,1580662
+1982425,Waterloo,IA,Principal City,place,1196041
+1983910,West Des Moines,IA,Principal City,place,328144
+20091,Johnson County,KS,Urban County,county,1393280
+2036000,Kansas,KS,Principal City,place,2132228
+2038900,Lawrence,KS,Principal City,place,752390
+2039000,Leavenworth,KS,Metro City,place,369060
+2044250,Manhattan,KS,Principal City,place,546884
+2053775,Overland Park,KS,Principal City,place,690372
+2064500,Shawnee,KS,Metro City,place,278072
+2071000,Topeka,KS,Principal City,place,1791961
+2079000,Wichita,KS,Principal City,place,2968869
+2102368,Ashland,KY,Principal City,place,505838
+2108902,Bowling Green,KY,Principal City,place,848543
+2117848,Covington,KY,Metro City,place,1409780
+2124274,Elizabethtown,KY,Principal City,place,208167
+2135866,Henderson,KY,Metro City,place,231376
+2137918,Hopkinsville,KY,Metro City,place,242872
+2146027,Lexington-Fayette,KY,Principal City,place,2249391
+21111,Louisville-Jefferson MCG,KY,Principal City,county,11301161
+2158620,Owensboro,KY,Principal City,place,542893
+2158836,Paducah,KY,Principal City,place,583406
+2200975,Alexandria,LA,Principal City,place,489682
+2205000,Baton Rouge,LA,Principal City,place,3313007
+2208920,Bossier,LA,Principal City,place,558769
+2232755,Hammond,LA,Principal City,place,230833
+22109,Houma-Terrebonne,LA,Principal City,county,823641
+22051,Jefferson Parish,LA,Urban County,county,2698293
+2239475,Kenner,LA,Metro City,place,504335
+2240735,Lafayette,LA,Principal City,place,1540451
+2241155,Lake Charles,LA,Principal City,place,734086
+2251410,Monroe,LA,Principal City,place,733589
+2255000,New Orleans,LA,Principal City,place,12568463
+2270000,Shreveport,LA,Principal City,place,1946439
+2270805,Slidell,LA,Metro City,place,207836
+22103,St. Tammany Parish,LA,Urban County,county,1335762
+2275425,Thibodaux,LA,Principal City,place,141270
+2302060,Auburn,ME,Principal City,place,485861
+2302795,Bangor,ME,Principal City,place,833082
+2304860,Biddeford,ME,Metro City,place,424428
+23005,Cumberland County,ME,Urban County,county,1509068
+2338740,Lewiston,ME,Principal City,place,788103
+2360545,Portland,ME,Principal City,place,1807636
+2401600,Annapolis,MD,Metro City,place,278182
+24003,Anne Arundel County,MD,Urban County,county,2218569
+2404000,Baltimore,MD,Principal City,place,20262880
+24005,Baltimore County,MD,Urban County,county,4687766
+2408775,Bowie,MD,Metro City,place,197940
+2421325,Cumberland,MD,Principal City,place,786221
+2430325,Frederick,MD,Principal City,place,444911
+24021,Frederick County,MD,Urban County,county,722727
+2431175,Gaithersburg,MD,Principal City,place,526482
+2436075,Hagerstown,MD,Principal City,place,791400
+24025,Harford County,MD,Urban County,county,1101617
+24027,Howard County,MD,Urban County,county,1336389
+24031,Montgomery County,MD,Urban County,county,5194196
+24033,Prince Georges County,MD,Urban County,county,5806716
+2469925,Salisbury,MD,Principal City,place,338056
+2501640,Arlington,MA,Metro City,place,1057391
+2502690,Attleboro,MA,Metro City,place,394424
+2503690,Barnstable,MA,Principal City,place,291036
+2507000,Boston,MA,Principal City,place,16948744
+2509000,Brockton,MA,Metro City,place,1343941
+2509210,Brookline,MA,Metro City,place,1368250
+2511000,Cambridge,MA,Principal City,place,2638641
+2513660,Chicopee,MA,Metro City,place,1130139
+2521990,Everett,MA,Metro City,place,1048571
+2523000,Fall River,MA,Metro City,place,2477723
+2523875,Fitchburg,MA,Metro City,place,921520
+2524960,Framingham,MA,Metro City,place,473889
+2526150,Gloucester,MA,Metro City,place,684282
+2529405,Haverhill,MA,Metro City,place,917780
+2530840,Holyoke,MA,Metro City,place,1180479
+2534550,Lawrence,MA,Metro City,place,1638713
+2535075,Leominster,MA,Metro City,place,468404
+2537000,Lowell,MA,Metro City,place,2079283
+2537490,Lynn,MA,Metro City,place,2021026
+2537875,Malden,MA,Metro City,place,1411157
+2539835,Medford,MA,Metro City,place,1466160
+2545000,New Bedford,MA,Metro City,place,2574063
+2545560,Newton,MA,Principal City,place,1855699
+2546330,Northampton,MA,Metro City,place,631073
+2552490,Peabody,MA,Metro City,place,440876
+2553960,Pittsfield,MA,Principal City,place,1221406
+2554275,Plymouth Town,MA,Metro City,place,408450
+2555745,Quincy,MA,Metro City,place,1841720
+2556585,Revere,MA,Metro City,place,690800
+2559105,Salem,MA,Metro City,place,1042346
+2562535,Somerville,MA,Metro City,place,2477825
+2567000,Springfield,MA,Principal City,place,3671092
+2569170,Taunton,MA,Metro City,place,853983
+2572600,Waltham,MA,Principal City,place,850450
+2576030,Westfield,MA,Metro City,place,398805
+2578972,Weymouth Town,MA,Metro City,place,681380
+2582000,Worcester,MA,Principal City,place,4088940
+2500182525,Yarmouth,MA,Metro City,cousub,136091
+2605920,Battle Creek,MI,Principal City,place,1205390
+2606020,Bay,MI,Principal City,place,1254300
+2607520,Benton Harbor,MI,Principal City,place,382893
+2616313120,Canton Twp,MI,Metro City,cousub,379148
+2616480,Clinton Twp,MI,Metro City,place,585695
+2621000,Dearborn,MI,Principal City,place,1865278
+2621020,Dearborn Heights,MI,Metro City,place,998836
+2622000,Detroit,MI,Principal City,place,32283682
+2624120,East Lansing,MI,Principal City,place,401429
+2627440,Farmington Hills,MI,Principal City,place,358837
+2629000,Flint,MI,Principal City,place,3588954
+26049,Genesee County,MI,Urban County,county,1820353
+2634000,Grand Rapids,MI,Principal City,place,3754702
+2638640,Holland,MI,Metro City,place,333432
+2641420,Jackson,MI,Principal City,place,1205801
+2642160,Kalamazoo,MI,Principal City,place,1583632
+26081,Kent County,MI,Urban County,county,1673365
+2646000,Lansing,MI,Principal City,place,1982088
+2647800,Lincoln Park,MI,Metro City,place,778236
+2649000,Livonia,MI,Principal City,place,343617
+26099,Macomb County,MI,Urban County,county,1913886
+2653780,Midland,MI,Principal City,place,203789
+2655020,Monroe,MI,Principal City,place,448407
+2656320,Muskegon,MI,Principal City,place,919565
+2656360,Muskegon Hts,MI,Metro City,place,424739
+2657760,Niles,MI,Principal City,place,270102
+2659140,Norton Shores,MI,Metro City,place,111638
+26125,Oakland County,MI,Urban County,county,3735142
+2665440,Pontiac,MI,Principal City,place,1436727
+2665820,Port Huron,MI,Metro City,place,702976
+2665560,Portage,MI,Principal City,place,209148
+2616367625,Redford,MI,Metro City,cousub,848170
+2669800,Roseville,MI,Metro City,place,560982
+2670040,Royal Oak,MI,Metro City,place,1154181
+2670520,Saginaw,MI,Principal City,place,1986926
+2674900,Southfield,MI,Principal City,place,409397
+2670760,St Clair Shores,MI,Metro City,place,859034
+2676460,Sterling Heights,MI,Metro City,place,802997
+2679000,Taylor,MI,Principal City,place,463413
+2680340,Traverse,MI,Principal City,place,367861
+2684000,Warren,MI,Principal City,place,974298
+26161,Washtenaw County,MI,Urban County,county,2248182
+2612584240,Waterford Township,MI,Metro City,cousub,362163
+26163,Wayne County,MI,Urban County,county,5492534
+2686000,Westland,MI,Metro City,place,1033365
+2688940,Wyoming,MI,Principal City,place,477892
+27003,Anoka County,MN,Urban County,county,1666016
+2706616,Bloomington,MN,Principal City,place,465137
+27037,Dakota County,MN,Urban County,county,1893442
+2717000,Duluth,MN,Principal City,place,2341913
+2718116,Eden Prairie,MN,Principal City,place,279604
+27053,Hennepin County,MN,Urban County,county,2993886
+2739878,Mankato,MN,Principal City,place,435932
+2743000,Minneapolis,MN,Principal City,place,10988006
+2743864,Moorhead,MN,Metro City,place,356693
+2751730,Plymouth,MN,Principal City,place,255820
+27123,Ramsey County,MN,Urban County,county,1215422
+2754880,Rochester,MN,Principal City,place,676343
+2756896,St Cloud,MN,Principal City,place,687307
+27137,St Louis County,MN,Urban County,county,1909180
+2758000,St Paul,MN,Principal City,place,6756518
+27163,Washington County,MN,Urban County,county,697198
+2771428,Woodbury,MN,Metro City,place,266417
+2806220,Biloxi,MS,Principal City,place,409375
+2829700,Gulfport,MS,Principal City,place,776285
+2831020,Hattiesburg,MS,Principal City,place,569656
+2836000,Jackson,MS,Principal City,place,1787635
+2849240,Moss Point,MS,Metro City,place,97999
+2855360,Pascagoula,MS,Principal City,place,261473
+2906652,Blue Springs,MO,Metro City,place,265704
+2911242,Cape Girardeau,MO,Principal City,place,326728
+2915670,Columbia,MO,Principal City,place,1065222
+2924778,Florissant,MO,Metro City,place,264212
+2935000,Independence,MO,Metro City,place,911277
+2937000,Jefferson,MO,Principal City,place,264411
+29099,Jefferson County,MO,Urban County,county,1062194
+2937592,Joplin City,MO,Principal City,place,515502
+2938000,Kansas,MO,Principal City,place,7608758
+2941348,Lees Summit,MO,Metro City,place,385005
+2954074,O'Fallon,MO,Metro City,place,338193
+2970000,Springfield,MO,Principal City,place,1489039
+2964550,St Joseph,MO,Principal City,place,1461592
+2965000,St Louis,MO,Principal City,place,17660570
+29189,St Louis County,MO,Urban County,county,5806360
+29183,St. Charles County,MO,Urban County,county,1065633
+3006550,Billings,MT,Principal City,place,674856
+3008950,Bozeman,MT,Principal City,place,347790
+3032800,Great Falls,MT,Principal City,place,761417
+3050200,Missoula,MT,Principal City,place,520234
+3103950,Bellevue,NE,Metro City,place,315457
+3119595,Grand Island,NE,Principal City,place,348081
+3128000,Lincoln,NE,Principal City,place,1878880
+3137000,Omaha,NE,Principal City,place,4254206
+3209700,Carson,NV,Principal City,place,402733
+32003,Clark County,NV,Urban County,county,8550959
+3231900,Henderson,NV,Principal City,place,1687463
+3240000,Las Vegas,NV,Principal City,place,5341723
+3251800,North Las Vegas,NV,Metro City,place,1959935
+3260600,Reno,NV,Principal City,place,2002682
+3268400,Sparks,NV,Metro City,place,739006
+3318820,Dover,NH,Metro City,place,328545
+3345140,Manchester,NH,Principal City,place,1570991
+3350260,Nashua,NH,Principal City,place,652953
+3362900,Portsmouth,NH,Metro City,place,522653
+3365140,Rochester,NH,Metro City,place,257705
+3401960,Asbury Park,NJ,Metro City,place,392066
+3402080,Atlantic,NJ,Principal City,place,1305980
+34001,Atlantic County,NJ,Urban County,county,1184270
+3403580,Bayonne,NJ,Metro City,place,1364019
+34003,Bergen County,NJ,Urban County,county,8974151
+3401306260,Bloomfield,NJ,Metro City,cousub,974904
+3402907420,Brick Township,NJ,Metro City,cousub,290827
+3407600,Bridgeton,NJ,Principal City,place,331652
+34005,Burlington County,NJ,Urban County,county,1594333
+3410000,Camden,NJ,Principal City,place,2380231
+34007,Camden County,NJ,Urban County,county,2577208
+3400712280,Cherry Hill,NJ,Metro City,cousub,407498
+3413690,Clifton,NJ,Metro City,place,1261206
+3419390,East Orange,NJ,Metro City,place,1405027
+3402320230,Edison,NJ,Metro City,cousub,671667
+3421000,Elizabeth,NJ,Metro City,place,1679231
+34013,Essex County,NJ,Urban County,county,5216482
+3402122185,Ewing Township,NJ,Metro City,cousub,278056
+3424930,Franklin Township,NJ,Metro City,place,348012
+34015,Gloucester County,NJ,Urban County,county,1400984
+3426820,Gloucester Twp,NJ,Metro City,place,312318
+3402129310,Hamilton,NJ,Metro City,cousub,603600
+3432250,Hoboken,NJ,Metro City,place,1053789
+34017,Hudson County,NJ,Urban County,county,2052540
+3401334450,Irvington,NJ,Metro City,cousub,1098955
+3436000,Jersey,NJ,Principal City,place,4321335
+3438580,Lakewood Township,NJ,Metro City,place,1660999
+3441310,Long Branch,NJ,Metro City,place,430460
+34023,Middlesex County,NJ,Urban County,county,1778781
+3402545990,Middletown,NJ,Metro City,cousub,262196
+3446680,Millville,NJ,Metro City,place,279713
+34025,Monmouth County,NJ,Urban County,county,2528455
+34027,Morris County,NJ,Urban County,county,1853121
+3451210,New Brunswick,NJ,Principal City,place,815209
+3451000,Newark,NJ,Principal City,place,6743865
+3401752470,North Bergen Township,NJ,Metro City,cousub,741207
+3454360,Ocean,NJ,Principal City,place,269952
+34029,Ocean County,NJ,Urban County,county,1369138
+3454690,Old Bridge Township,NJ,Metro City,place,360622
+3402756460,Parsippany-Troyhills Twp,NJ,Metro City,cousub,247701
+3456550,Passaic,NJ,Metro City,place,1276682
+34031,Passaic County,NJ,Urban County,county,996962
+3457000,Paterson,NJ,Metro City,place,2644414
+3458200,Perth Amboy,NJ,Metro City,place,687972
+3402359010,Piscataway Township,NJ,Metro City,cousub,278453
+3460900,Princeton,NJ,Metro City,place,185428
+3465790,Sayreville,NJ,Metro City,place,227914
+34035,Somerset County,NJ,Urban County,county,1157043
+3473110,Toms River Township,NJ,Metro City,place,405264
+3474000,Trenton,NJ,Principal City,place,2527173
+3474630,Union,NJ,Metro City,place,1090426
+34039,Union County,NJ,Urban County,county,4410172
+3403974480,Union Township,NJ,Metro City,cousub,611899
+3476070,Vineland,NJ,Principal City,place,431508
+3403177840,Wayne Township,NJ,Metro City,cousub,170556
+3481950,Woodbridge,NJ,Metro City,place,636236
+3502000,Albuquerque,NM,Principal City,place,4395720
+3525800,Farmington,NM,Principal City,place,461761
+3539380,Las Cruces,NM,Principal City,place,1163202
+3563460,Rio Rancho,NM,Metro City,place,493138
+3570500,Santa Fe,NM,Principal City,place,633475
+3601000,Albany,NY,Principal City,place,3043143
+3602902000,Amherst,NY,Metro City,cousub,625669
+3603078,Auburn,NY,Metro City,place,813992
+3603408,Babylon Town,NY,Metro City,place,1118673
+3606607,Binghamton,NY,Principal City,place,1790607
+3609000,Brookhaven Town,NY,Metro City,place,2169136
+3611000,Buffalo,NY,Principal City,place,13103636
+3615000,Cheektowaga Town,NY,Principal City,place,956973
+3617332,Colonie Town,NY,Metro City,place,369706
+3621105,Dunkirk,NY,Metro City,place,433336
+36027,Dutchess County,NY,Urban County,county,1497550
+3624229,Elmira,NY,Principal City,place,1095403
+36029,Erie County,NY,Urban County,county,2994630
+3629333,Glen Falls,NY,Principal City,place,469459
+3630279,Greece,NY,Metro City,place,554086
+3631643,Hamburg Town,NY,Metro City,place,445160
+3636233,Huntington Town,NY,Metro City,place,821950
+3637737,Irondequoit,NY,Metro City,place,899321
+3637869,Islip Town,NY,Metro City,place,1758897
+3638077,Ithaca,NY,Principal City,place,680918
+3638264,Jamestown,NY,Metro City,place,1105265
+3639727,Kingston,NY,Principal City,place,712928
+3639853,Kiryas Joel village,NY,Principal City,place,750045
+3647042,Middletown,NY,Metro City,place,426960
+36055,Monroe County,NY,Urban County,county,1842072
+3649121,Mount Vernon,NY,Metro City,place,1548930
+36059,Nassau County,NY,Urban County,county,13259692
+3650617,New Rochelle,NY,Metro City,place,1385726
+3651000,New York,NY,Principal City,place,170159554
+3650034,Newburgh,NY,Metro City,place,808151
+3651055,Niagara Falls,NY,Principal City,place,2150047
+36067,Onondaga County,NY,Urban County,county,2272403
+36071,Orange County,NY,Urban County,county,1645340
+3659641,Poughkeepsie,NY,Metro City,place,840397
+3663000,Rochester,NY,Principal City,place,8068072
+36087,Rockland County,NY,Urban County,county,2691786
+3663418,Rome,NY,Principal City,place,945127
+3665255,Saratoga Springs,NY,Metro City,place,323737
+3665508,Schenectady,NY,Principal City,place,2050241
+36103,Suffolk County,NY,Urban County,county,1297836
+3673000,Syracuse,NY,Principal City,place,4795536
+3674166,Tonawanda Town,NY,Metro City,place,1592983
+3675484,Troy,NY,Principal City,place,1725397
+3600776056,Union Town,NY,Metro City,cousub,1253674
+3676540,Utica,NY,Principal City,place,2320311
+3678608,Watertown,NY,Principal City,place,860088
+36119,Westchester County,NY,Urban County,county,4646543
+3681677,White Plains,NY,Principal City,place,892382
+3684000,Yonkers,NY,Metro City,place,3248745
+3702140,Asheville,NC,Principal City,place,972202
+3709060,Burlington,NC,Principal City,place,481204
+3710740,Cary,NC,Metro City,place,734151
+3711800,Chapel Hill,NC,Principal City,place,415188
+3712000,Charlotte,NC,Principal City,place,5741754
+3714100,Concord,NC,Principal City,place,560220
+37051,Cumberland County,NC,Urban County,county,909877
+3719000,Durham,NC,Principal City,place,1936725
+3722920,Fayetteville,NC,Principal City,place,1748202
+3725580,Gastonia,NC,Principal City,place,567471
+3726880,Goldsboro,NC,Principal City,place,337814
+3728000,Greensboro,NC,Principal City,place,2489554
+3728080,Greenville,NC,Principal City,place,855949
+3731060,Hickory,NC,Principal City,place,331589
+3731400,High Point,NC,Principal City,place,841549
+3734200,Jacksonville,NC,Principal City,place,422910
+3735200,Kannapolis,NC,Metro City,place,380894
+3737760,Lenoir,NC,Principal City,place,136612
+37119,Mecklenburg County,NC,Urban County,county,1022878
+3744220,Mooresville,NC,Metro City,place,234527
+3744400,Morganton,NC,Principal City,place,212470
+3746340,New Bern,NC,Principal City,place,260903
+3755000,Raleigh,NC,Principal City,place,2851817
+3757500,Rocky Mount,NC,Principal City,place,501884
+3758860,Salisbury,NC,Metro City,place,342969
+37179,Union County,NC,Urban County,county,801607
+37183,Wake County,NC,Urban County,county,2178737
+3774440,Wilmington,NC,Principal City,place,871503
+3775000,Winston-Salem,NC,Principal City,place,2029462
+3807200,Bismarck,ND,Principal City,place,389924
+3825700,Fargo,ND,Principal City,place,874861
+3832060,Grand Forks,ND,Principal City,place,441773
+3853380,Minot,ND,Principal City,place,315990
+3901000,Akron,OH,Principal City,place,5830829
+3901420,Alliance,OH,Metro City,place,619064
+3903828,Barberton,OH,Metro City,place,661601
+3907972,Bowling Green,OH,Metro City,place,284964
+39017,Butler County,OH,Urban County,county,1318153
+3912000,Canton,OH,Principal City,place,2536505
+3915000,Cincinnati,OH,Principal City,place,11063082
+39025,Clermont County,OH,Urban County,county,1002763
+3916000,Cleveland,OH,Principal City,place,19463970
+3916014,Cleveland Heights,OH,Metro City,place,1566683
+3918000,Columbus,OH,Principal City,place,7527430
+39035,Cuyahoga County,OH,Urban County,county,4227608
+3919778,Cuyahoga Falls,OH,Metro City,place,669676
+3921000,Dayton,OH,Principal City,place,5277784
+39041,Delaware County,OH,Urban County,county,407782
+3923380,East Cleveland,OH,Metro City,place,937765
+3925256,Elyria,OH,Principal City,place,728601
+3925704,Euclid,OH,Metro City,place,998865
+3925914,Fairborn,OH,Metro City,place,265003
+39049,Franklin County,OH,Urban County,county,2026554
+3933012,Hamilton,OH,Metro City,place,1279648
+39061,Hamilton County,OH,Urban County,county,3798710
+3939872,Kent,OH,Metro City,place,264952
+3940040,Kettering,OH,Metro City,place,509132
+39085,Lake County,OH,Urban County,county,1352458
+3941664,Lakewood,OH,Metro City,place,1889388
+3941720,Lancaster,OH,Metro City,place,489000
+3943554,Lima,OH,Principal City,place,1009995
+3944856,Lorain,OH,Metro City,place,1303710
+3947138,Mansfield,OH,Principal City,place,858204
+3947628,Marietta,OH,Metro City,place,369588
+3948244,Massillon,OH,Principal City,place,646321
+3949056,Mentor,OH,Metro City,place,160804
+3949840,Middletown,OH,Metro City,place,695797
+39113,Montgomery County,OH,Urban County,county,2021803
+3954040,Newark,OH,Metro City,place,745133
+3961000,Parma,OH,Metro City,place,949665
+3970380,Sandusky,OH,Metro City,place,699040
+3974118,Springfield,OH,Principal City,place,1740154
+39151,Stark County,OH,Urban County,county,1396925
+3974608,Steubenville,OH,Principal City,place,594903
+39153,Summit County,OH,Urban County,county,915818
+3977000,Toledo,OH,Principal City,place,7046960
+3980892,Warren,OH,Principal City,place,1146337
+39165,Warren County,OH,Urban County,county,872108
+3988000,Youngstown,OH,Principal City,place,3266480
+4023200,Edmond,OK,Metro City,place,499591
+4023950,Enid,OK,Metro City,place,480118
+4041850,Lawton,OK,Principal City,place,738579
+4048350,Midwest,OK,Metro City,place,412315
+4049200,Moore,OK,Metro City,place,354545
+4052500,Norman,OK,Metro City,place,984443
+4055000,Oklahoma,OK,Principal City,place,5130024
+4066800,Shawnee,OK,Metro City,place,337126
+4075000,Tulsa,OK,Principal City,place,3509486
+40143,Tulsa County,OK,Urban County,county,1564805
+4101000,Albany,OR,Principal City,place,373063
+4103050,Ashland,OR,Metro City,place,173259
+4105350,Beaverton,OR,Principal City,place,679728
+4105800,Bend,OR,Principal City,place,583169
+41005,Clackamas County,OR,Urban County,county,2132803
+4115800,Corvallis,OR,Principal City,place,581812
+4123850,Eugene,OR,Principal City,place,1483454
+4130550,Grants Pass,OR,Principal City,place,351555
+4131250,Gresham,OR,Metro City,place,943169
+4134100,Hillsboro,OR,Principal City,place,681847
+41047,Marion County,OR,Urban County,county,1420109
+4147000,Medford,OR,Principal City,place,615563
+41051,Multnomah County,OR,Urban County,county,333210
+4159000,Portland,OR,Principal City,place,8345073
+4161200,Redmond,OR,Principal City,place,219123
+4164900,Salem,OR,Principal City,place,1469203
+4169600,Springfield,OR,Metro City,place,554348
+41067,Washington County,OR,Urban County,county,2013429
+4209100156,Abington,PA,Metro City,cousub,715339
+42003,Allegheny County,PA,Urban County,county,13140833
+4202000,Allentown,PA,Principal City,place,2401678
+4202184,Altoona,PA,Principal City,place,1536368
+42007,Beaver County,PA,Urban County,county,3190637
+4201705616,Bensalem Township,PA,Metro City,cousub,426178
+42011,Berks County,PA,Urban County,county,2240548
+4205888,Berwick Borough,PA,Principal City,place,277447
+4206088,Bethlehem,PA,Principal City,place,1418306
+4207128,Bloomsburg,PA,Principal City,place,204315
+4208760,Bristol Township,PA,Metro City,place,626184
+42017,Bucks County,PA,Urban County,county,2095451
+4211272,Carlisle,PA,Principal City,place,341040
+4212536,Chambersburg,PA,Principal City,place,291250
+4213208,Chester,PA,Metro City,place,1234711
+42029,Chester County,PA,Urban County,county,2477719
+42041,Cumberland County,PA,Urban County,county,1260456
+42043,Dauphin County,PA,Urban County,county,1406426
+42045,Delaware County,PA,Urban County,county,3604201
+4224000,Erie,PA,Principal City,place,2775245
+4232800,Harrisburg,PA,Principal City,place,1806820
+4204533144,Haverford,PA,Metro City,cousub,803312
+4233408,Hazleton,PA,Principal City,place,658424
+4238288,Johnstown,PA,Principal City,place,1166725
+4241216,Lancaster,PA,Principal City,place,1413647
+42071,Lancaster County,PA,Urban County,county,2820083
+4242168,Lebanon,PA,Principal City,place,695929
+42077,Lehigh County,PA,Urban County,county,1274277
+4209144976,Lower Merion,PA,Metro City,cousub,966616
+4204345056,Lower Paxton Township,PA,Metro City,cousub,261844
+42079,Luzerne County,PA,Urban County,county,3941081
+4246256,Mckeesport,PA,Metro City,place,945414
+4249552,Millcreek Township,PA,Metro City,place,234533
+42091,Montgomery County,PA,Urban County,county,3373117
+4254656,Norristown,PA,Metro City,place,736318
+42095,Northampton County,PA,Urban County,county,2250595
+4200359032,Penn Hills,PA,Metro City,cousub,707778
+4260000,Philadelphia,PA,Principal City,place,44267048
+4261000,Pittsburgh,PA,Principal City,place,12852093
+4263624,Reading,PA,Principal City,place,2462848
+4269000,Scranton,PA,Principal City,place,2619353
+4269720,Sharon,PA,Metro City,place,539294
+4273808,State College,PA,Principal City,place,477508
+4204579000,Upper Darby,PA,Metro City,cousub,1685303
+42125,Washington County,PA,Urban County,county,3425458
+42129,Westmoreland Co,PA,Urban County,county,3962299
+4285152,Wilkes-Barre,PA,Principal City,place,1400226
+4285312,Williamsport,PA,Principal City,place,1002670
+4287048,York,PA,Principal City,place,1347184
+42133,York County,PA,Urban County,county,2263829
+4419180,Cranston,RI,Metro City,place,1085975
+4422960,East Providence,RI,Metro City,place,772761
+4454640,Pawtucket,RI,Metro City,place,1776064
+4459000,Providence,RI,Principal City,place,5227138
+4474300,Warwick,RI,Principal City,place,948131
+4480780,Woonsocket,RI,Metro City,place,1050583
+4500550,Aiken,SC,Metro City,place,207674
+4501360,Anderson,SC,Principal City,place,555496
+45015,Berkeley County,SC,Urban County,county,1264084
+4513330,Charleston,SC,Principal City,place,934538
+45019,Charleston County,SC,Urban County,county,1761701
+4516000,Columbia,SC,Principal City,place,1137467
+4525810,Florence,SC,Principal City,place,344189
+4530850,Greenville,SC,Principal City,place,678608
+45045,Greenville County,SC,Urban County,county,2849153
+4534045,Hilton Head Island,SC,Principal City,place,210564
+45051,Horry County,SC,Urban County,county,1892350
+45063,Lexington County,SC,Urban County,county,1850758
+45079,Richland County,SC,Urban County,county,1755995
+4561405,Rock Hill,SC,Principal City,place,478911
+4568290,Spartanburg,SC,Principal City,place,637479
+45083,Spartanburg County,SC,Urban County,county,1661440
+4570270,Summerville,SC,Metro City,place,286717
+4570405,Sumter,SC,Principal City,place,333755
+4652980,Rapid,SD,Principal City,place,491823
+4659020,Sioux Falls,SD,Principal City,place,1096917
+4708540,Bristol,TN,Principal City,place,213209
+4714000,Chattanooga,TN,Principal City,place,1541191
+4715160,Clarksville,TN,Principal City,place,1149342
+4715400,Cleveland,TN,Principal City,place,360274
+4727740,Franklin,TN,Principal City,place,364925
+4728540,Gallatin,TN,Metro City,place,330736
+4737640,Jackson,TN,Principal City,place,616212
+4738320,Johnson,TN,Principal City,place,620977
+4739560,Kingsport,TN,Principal City,place,457885
+47093,Knox County,TN,Urban County,county,1164604
+4740000,Knoxville,TN,Principal City,place,1636277
+4748000,Memphis,TN,Principal City,place,6037192
+4750280,Morristown,TN,Principal City,place,337032
+4751560,Murfreesboro,TN,Principal City,place,1002524
+47037,Nashville-Davidson,TN,Principal City,county,5431624
+4755120,Oak Ridge,TN,Metro City,place,211245
+47157,Shelby County,TN,Urban County,county,1216018
+4769420,Smyrna,TN,Principal City,place,412974
+4770580,Spring Hill,TN,Metro City,place,186017
+4801000,Abilene,TX,Principal City,place,912242
+4801924,Allen,TX,Metro City,place,496598
+4803000,Amarillo,TX,Principal City,place,1603518
+4804000,Arlington,TX,Principal City,place,3096788
+4805000,Austin,TX,Principal City,place,7321442
+4806128,Baytown,TX,Principal City,place,793686
+4807000,Beaumont,TX,Principal City,place,1352666
+48029,Bexar County,TX,Urban County,county,3160136
+48039,Brazoria County,TX,Urban County,county,1427334
+4810768,Brownsville,TX,Principal City,place,2564396
+4810912,Bryan,TX,Principal City,place,919611
+4813024,Carrollton,TX,Metro City,place,755813
+4815976,College Station,TX,Principal City,place,1229672
+4816432,Conroe,TX,Principal City,place,721877
+4817000,Corpus Christi,TX,Principal City,place,2646956
+4819000,Dallas,TX,Principal City,place,12944689
+48113,Dallas County,TX,Urban County,county,2229181
+4819900,Denison,TX,Principal City,place,277743
+4819972,Denton,TX,Principal City,place,1049336
+4820092,Desoto,TX,Metro City,place,271460
+4821892,Eagle Pass,TX,Principal City,place,358487
+4822660,Edinburg,TX,Principal City,place,1259616
+4824000,El Paso,TX,Principal City,place,6441184
+4826232,Flower Mound Town,TX,Metro City,place,273152
+48157,Fort Bend County,TX,Urban County,county,3663792
+4827000,Fort Worth,TX,Principal City,place,7116438
+4827684,Frisco,TX,Metro City,place,774444
+4828068,Galveston,TX,Metro City,place,1155999
+4829000,Garland,TX,Metro City,place,1983303
+4830464,Grand Prairie,TX,Metro City,place,1544048
+4832372,Harlingen,TX,Principal City,place,952807
+48201,Harris County,TX,Urban County,county,15794784
+48215,Hidalgo County,TX,Urban County,county,7417209
+4835000,Houston,TX,Principal City,place,25534560
+4837000,Irving,TX,Principal City,place,2225694
+4839148,Killeen,TX,Principal City,place,1350070
+4839952,Kyle,TX,Metro City,place,277869
+4841464,Laredo,TX,Principal City,place,2859543
+4841980,League,TX,Metro City,place,451655
+4842508,Lewisville,TX,Metro City,place,847606
+4843888,Longview,TX,Principal City,place,654682
+4845000,Lubbock,TX,Principal City,place,2215657
+4846776,Marshall,TX,Metro City,place,304234
+4845384,Mc Allen,TX,Principal City,place,1608590
+4845744,McKinney,TX,Metro City,place,907326
+4847892,Mesquite,TX,Metro City,place,1047108
+4848072,Midland,TX,Principal City,place,973186
+4848768,Mission,TX,Principal City,place,992431
+4848804,Missouri,TX,Metro City,place,300081
+48339,Montgomery County,TX,Urban County,county,2925262
+4850820,New Braunfels,TX,Principal City,place,454245
+4853388,Odessa,TX,Principal City,place,987543
+4854132,Orange,TX,Metro City,place,314115
+4856000,Pasadena,TX,Metro City,place,1630927
+4856348,Pearland,TX,Metro City,place,537831
+4857176,Pflugerville,TX,Metro City,place,347221
+4857200,Pharr,TX,Metro City,place,1201828
+4858016,Plano,TX,Principal City,place,1616959
+4858820,Port Arthur,TX,Principal City,place,1006766
+4863500,Round Rock,TX,Principal City,place,672184
+4863572,Rowlett,TX,Metro City,place,299525
+4864472,San Angelo,TX,Principal City,place,641137
+4865000,San Antonio,TX,Principal City,place,13395048
+4865036,San Benito,TX,Metro City,place,329615
+4865600,San Marcos,TX,Metro City,place,754405
+4867496,Sherman,TX,Principal City,place,294784
+48439,Tarrant County,TX,Urban County,county,4163451
+4872176,Temple,TX,Principal City,place,717139
+4872368,Texarkana,TX,Principal City,place,382663
+4872392,Texas,TX,Metro City,place,432691
+48453,Travis County,TX,Urban County,county,1787382
+4874144,Tyler,TX,Principal City,place,743501
+4875428,Victoria,TX,Principal City,place,537925
+4876000,Waco,TX,Principal City,place,1383840
+4879000,Wichita Falls,TX,Principal City,place,1206417
+48491,Williamson County,TX,Urban County,county,2200130
+4913850,Clearfield,UT,Principal City,place,206865
+49011,Davis County,UT,Urban County,county,936639
+4920810,Eagle Mountain,UT,Metro City,place,239813
+4943660,Layton,UT,Metro City,place,392160
+4944320,Lehi,UT,Metro City,place,332739
+4945860,Logan,UT,Principal City,place,558464
+4955980,Ogden,UT,Principal City,place,1022138
+4957300,Orem,UT,Principal City,place,569542
+4962470,Provo,UT,Principal City,place,1210634
+4967000,Salt Lake,UT,Principal City,place,3250831
+49035,Salt Lake County,UT,Urban County,county,2393613
+4967440,Sandy,UT,Metro City,place,355402
+4970850,South Jordan,UT,Metro City,place,253648
+4965330,St George,UT,Principal City,place,625751
+4975360,Taylorsville,UT,Metro City,place,352902
+49049,Utah County,UT,Urban County,county,1425085
+4982950,West Jordan,UT,Metro City,place,491304
+4983470,West Valley,UT,Metro City,place,1047855
+5010675,Burlington,VT,Principal City,place,745925
+5101000,Alexandria,VA,Principal City,place,1068416
+51013,Arlington County,VA,Urban County,county,1321685
+5107784,Blacksburg,VA,Principal City,place,546821
+5109816,Bristol,VA,Principal City,place,273121
+5114968,Charlottesville,VA,Principal City,place,445452
+5116000,Chesapeake,VA,Metro City,place,1145305
+51041,Chesterfield County,VA,Urban County,county,1612176
+5116608,Christiansburg,VA,Principal City,place,155108
+5118448,Colonial Heights,VA,Metro City,place,96066
+5121344,Danville,VA,Metro City,place,868381
+51059,Fairfax County,VA,Urban County,county,5768750
+5129744,Fredericksburg,VA,Metro City,place,236645
+5135000,Hampton,VA,Principal City,place,897498
+5135624,Harrisonburg,VA,Principal City,place,512366
+51087,Henrico County,VA,Urban County,county,1619559
+5138424,Hopewell,VA,Metro City,place,239391
+51107,Loudoun County,VA,Urban County,county,1564518
+5147672,Lynchburg,VA,Principal City,place,750979
+5156000,Newport News,VA,Principal City,place,1304472
+5157000,Norfolk,VA,Principal City,place,4381461
+5161832,Petersburg,VA,Metro City,place,585812
+5164000,Portsmouth,VA,Principal City,place,1545652
+51153,Prince William County,VA,Urban County,county,2634741
+5165392,Radford,VA,Principal City,place,166346
+5167000,Richmond,VA,Principal City,place,4321483
+5168000,Roanoke,VA,Principal City,place,1805116
+5175216,Staunton,VA,Principal City,place,317797
+5176432,Suffolk,VA,Metro City,place,516501
+5182000,Virginia Beach,VA,Principal City,place,2116284
+5183680,Waynesboro,VA,Principal City,place,163791
+5186720,Winchester,VA,Principal City,place,249133
+5301990,Anacortes,WA,Principal City,place,108427
+5303180,Auburn,WA,Principal City,place,584178
+5305210,Bellevue,WA,Principal City,place,879477
+5305280,Bellingham,WA,Principal City,place,795516
+5307695,Bremerton,WA,Principal City,place,381073
+53011,Clark County,WA,Urban County,county,1591236
+5322640,Everett,WA,Principal City,place,869124
+5323515,Federal Way,WA,Metro City,place,788336
+5335275,Kennewick,WA,Principal City,place,629426
+5335415,Kent,WA,Principal City,place,1059334
+53033,King County,WA,Urban County,county,5616834
+53035,Kitsap County,WA,Urban County,county,1093594
+5336745,Lacey,WA,Principal City,place,348393
+5338038,Lakewood,WA,Principal City,place,482320
+5340245,Longview,WA,Principal City,place,270235
+5343955,Marysville,WA,Metro City,place,406499
+5347560,Mount Vernon,WA,Principal City,place,377614
+5351300,Olympia,WA,Principal City,place,341583
+5353545,Pasco,WA,Metro City,place,650672
+53053,Pierce County,WA,Urban County,county,3207750
+5358235,Richland,WA,Principal City,place,291463
+5363000,Seattle,WA,Principal City,place,8917476
+53061,Snohomish County,WA,Urban County,county,3309657
+5367000,Spokane,WA,Principal City,place,3017244
+53063,Spokane County,WA,Urban County,county,1803488
+5370000,Tacoma,WA,Principal City,place,2370358
+53067,Thurston County,WA,Urban County,county,919511
+5374060,Vancouver,WA,Principal City,place,1407808
+5375775,Walla Walla,WA,Principal City,place,408743
+5377105,Wenatchee,WA,Principal City,place,234918
+5380010,Yakima,WA,Principal City,place,1023311
+5405332,Beckley,WV,Principal City,place,289846
+5414600,Charleston,WV,Principal City,place,1501940
+5439460,Huntington,WV,Principal City,place,1596831
+5452060,Martinsburg,WV,Principal City,place,310180
+5455756,Morgantown,WV,Principal City,place,470309
+5462140,Parkersburg,WV,Principal City,place,858894
+5483500,Vienna,WV,Principal City,place,94632
+5485156,Weirton,WV,Principal City,place,392897
+5486452,Wheeling,WV,Principal City,place,1131704
+5502375,Appleton,WI,Principal City,place,575860
+5506500,Beloit,WI,Principal City,place,524164
+55025,Dane County,WI,Urban County,county,1088902
+5522300,Eau Claire,WI,Principal City,place,556399
+5526275,Fond Du Lac,WI,Principal City,place,572864
+5531000,Green Bay,WI,Principal City,place,938354
+5537825,Janesville,WI,Principal City,place,445415
+5539225,Kenosha,WI,Metro City,place,1021655
+5540775,La Crosse,WI,Principal City,place,882603
+5548000,Madison,WI,Principal City,place,2045072
+5553000,Milwaukee,WI,Principal City,place,15266737
+55079,Milwaukee County,WI,Urban County,county,1799375
+5555750,Neenah,WI,Principal City,place,193278
+5560500,Oshkosh,WI,Principal City,place,822816
+5566000,Racine,WI,Principal City,place,1743518
+5572975,Sheboygan,WI,Principal City,place,910675
+5578650,Superior,WI,Metro City,place,666237
+55133,Waukesha County,WI,Urban County,county,1442980
+5584475,Wausau,WI,Principal City,place,578864
+5584675,Wauwatosa,WI,Metro City,place,988733
+5585300,West Allis,WI,Principal City,place,1180732
+5613900,Cheyenne,WY,Principal City,place,416112
+72005,Aguadilla Municipio,PR,Principal City,county,905373
+72013,Arecibo Municipio,PR,Metro City,county,1309919
+72021,Bayamon Municipio,PR,Metro City,county,2244635
+72023,Cabo Rojo Municipio,PR,Metro City,county,717729
+72025,Caguas Municipio,PR,Principal City,county,1686988
+72029,Canovanas Municipio,PR,Metro City,county,631437
+72031,Carolina Municipio,PR,Metro City,county,1881384
+72035,Cayey Municipio,PR,Metro City,county,565543
+72041,Cidra Municipio,PR,Metro City,county,548514
+72053,Fajardo Municipio,PR,Metro City,county,486517
+72057,Guayama Municipio,PR,Principal City,county,341844
+72061,Guaynabo Municipio,PR,Principal City,county,881466
+72069,Humacao Municipio,PR,Metro City,county,710340
+72071,Isabela Municipio,PR,Principal City,county,681763
+72075,Juana Diaz Municipio,PR,Metro City,county,729473
+72091,Manati Municipio,PR,Metro City,county,674562
+72097,Mayaguez Municipio,PR,Principal City,county,1316963
+72113,Ponce Municipio,PR,Principal City,county,2362953
+72119,Rio Grande Municipio,PR,Metro City,county,637034
+72125,San German Municipio,PR,Principal City,county,541078
+72127,San Juan Municipio,PR,Principal City,county,7031753
+72131,San Sebastian Municipio,PR,Metro City,county,694475
+72135,Toa Alta Municipio,PR,Metro City,county,813782
+72137,Toa Baja Municipio,PR,Metro City,county,1004618
+72139,Trujillo Alto Municipio,PR,Metro City,county,779368
+72145,Vega Baja Municipio,PR,Metro City,county,900819
+72153,Yauco Municipio,PR,Metro City,county,511111
