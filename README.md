@@ -10,6 +10,7 @@ python build_now.py --census-key YOUR_CENSUS_API_KEY
 python build_now.py --census-key YOUR_KEY --extras          # the two side analyses
 python build_now.py --census-key YOUR_KEY --series bps      # alternative unit series
 python build_now.py --census-key YOUR_KEY --zoning-rule counties
+python build_now.py --census-key YOUR_KEY --disaster-rule ia
 ```
 
 A Census API key is free: https://api.census.gov/data/key_signup.html
@@ -63,6 +64,20 @@ sides**.
 * **Screen (D), zoning.** No reading of "lacks the legal authority to enact or update zoning and permitting ordinances" reproduces any published coding of it, so the baseline applies no zoning screen. `--zoning-rule counties` excludes every county-type recipient instead, which takes the eligible set from 182 to 130.
 * **Screen (B), the national vacancy rate.** The default 6.8 per cent is the CPS/HVS *annual* rate for 2024. The ACS 5-year 2024 figure computed on the same basis as the local rates is 5.5507 per cent, and the choice moves about 170 jurisdictions. Use `--vacancy-rate`.
 * **Screen (C), geography.** Any county the recipient touches counts, which follows 44 C.F.R. § 206.40(b) — a designated area "includes all local government jurisdictions within its boundaries."
+* **Screen (C), severity.** The baseline counts any qualifying declaration, because subsection (a)(3)(C) reaches declarations "under section 401 or 501" and says nothing about which assistance was authorised. `--disaster-rule ia` counts only areas where the Individuals and Households Program was authorised — that is, where FEMA judged homes damaged enough to warrant household assistance rather than Public Assistance for infrastructure alone.
+
+This is the sharpest lever in the statute, and it is worth seeing what it does and does not change:
+
+| Screen (C) rule | Exempt | Eligible | Redistributed | Per net home |
+|---|---:|---:|---:|---:|
+| any qualifying declaration | 770 (63.7%) | 182 | $11.6M (0.51%) | $117 |
+| only with Individual Assistance | 476 (39.4%) | 342 | $27.8M (1.21%) | $130 |
+
+Requiring household assistance nearly halves the exemption and almost doubles the
+eligible set — and the money still moves 1.2 per cent of the program at $130 a
+home. Geographic thresholds do far less: requiring a majority of a recipient's
+homes to sit in the designated county takes the exemption only from 63.7 to 62.0
+per cent.
 
 ## `--extras`
 
@@ -106,7 +121,9 @@ copyright under 17 U.S.C. § 105:
 What is mine is the compilation: the recipient universe, the many-to-many
 jurisdiction-to-county crosswalk, the urban-county carve-out shares, and the
 derived outputs in `outputs/` and `figures/`. Those are offered under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — a link back to the article is plenty.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — attribution is all
+I ask, and a link back to the article is plenty.
 
-The results file is committed so the numbers can be checked
+`cache/` and `outputs/results.csv` are reproducible from the script; the cache
+is gitignored, and the results file is committed so the numbers can be checked
 without a Census API key.

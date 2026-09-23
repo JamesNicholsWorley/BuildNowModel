@@ -190,18 +190,23 @@ def fema_declarations(start, end):
            "declarationDate le '%sT23:59:59.999z' and "
            "(declarationType eq 'DR' or declarationType eq 'EM')"
            % (start.date().isoformat(), end.date().isoformat()))
+    # ihProgramDeclared records whether the Individuals and Households Program
+    # was authorised for THIS designated area, which is what --disaster-rule ia
+    # tests. A PA-only designation means no federal household assistance at all.
     fields = ("fipsStateCode,fipsCountyCode,declarationType,declarationDate,"
-              "disasterNumber,incidentType")
+              "disasterNumber,incidentType,ihProgramDeclared")
     rows, skip = [], 0
     while True:
         qs = urllib.parse.urlencode({"$filter": flt, "$select": fields,
                                      "$top": 1000, "$skip": skip,
                                      "$orderby": "declarationDate"})
         url = "https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?" + qs
-        # the cache tag carries BOTH endpoints: a run without --extras stops at
-        # the allocation date, and reusing that cache for a later --extras run
-        # would silently drop the most recent year of declarations
-        got = json.loads(fetch(url, "fema_%s_%s_%d.json"
+        # The cache tag carries BOTH endpoints and a field-set version: a run
+        # without --extras stops at the allocation date, and reusing that cache
+        # for a later --extras run would silently drop the most recent year of
+        # declarations. The v2 suffix likewise forces a refetch for anyone whose
+        # cache predates the ihProgramDeclared field.
+        got = json.loads(fetch(url, "fema_v2_%s_%s_%d.json"
                                % (start.date(), end.date(), skip)))
         batch = got.get("DisasterDeclarationsSummaries", [])
         if not batch:
@@ -213,15 +218,22 @@ def fema_declarations(start, end):
     df["cg"] = (df.fipsStateCode.astype(str).str.zfill(2)
                 + df.fipsCountyCode.astype(str).str.zfill(3))
     df["date"] = pd.to_datetime(df.declarationDate.str[:10])
+    df["ih"] = df.get("ihProgramDeclared", False).astype(str).str.lower().eq("true")
     print("  FEMA: %d designated-area rows, %d distinct counties, %s..%s"
           % (len(df), df.cg.nunique(), start.date(), end.date()))
-    return df[["disasterNumber", "cg", "date", "incidentType"]]
+    return df[["disasterNumber", "cg", "date", "incidentType", "ih"]]
 
 
-def designated_in(decl, end, years=DISASTER_LOOKBACK_YEARS):
-    """Counties designated in the `years` before `end`."""
+def designated_in(decl, end, years=DISASTER_LOOKBACK_YEARS, ia_only=False):
+    """Counties designated in the `years` before `end`.
+
+    With ia_only, keep only areas where the Individuals and Households Program
+    was authorised -- that is, where FEMA judged homes damaged enough to warrant
+    household assistance, rather than Public Assistance for infrastructure.
+    """
     start = end - pd.DateOffset(years=years)
-    return set(decl[(decl.date > start) & (decl.date <= end)].cg)
+    w = decl[(decl.date > start) & (decl.date <= end)]
+    return set(w[w.ih].cg if ia_only else w.cg)
 
 
 BPS_BASE = "https://www2.census.gov/econ/bps/"
@@ -445,6 +457,9 @@ def main():
                     help="screen (D): 'none' (baseline) or 'counties'")
     ap.add_argument("--series", default="acs", choices=["acs", "bps"],
                     help="housing-unit series; the ACL cannot span the windows")
+    ap.add_argument("--disaster-rule", default="any", choices=["any", "ia"],
+                    help="screen (C): 'any' qualifying declaration (baseline), "
+                         "or 'ia' only where Individual Assistance was authorised")
     ap.add_argument("--extras", action="store_true",
                     help="also report the rolling exemption rate and the "
                          "before/after permit comparison")
@@ -479,9 +494,10 @@ def main():
     # pulled wide so the same rows serve the screen and the two extras below
     decl = fema_declarations(pd.Timestamp("2014-01-01"), pd.Timestamp(ALLOCATION_DATE)
                              if not args.extras else pd.Timestamp.today())
-    designated = designated_in(decl, pd.Timestamp(ALLOCATION_DATE))
-    print("      screen (C) window: %d counties designated"
-          % len(designated))
+    ia_only = args.disaster_rule == "ia"
+    designated = designated_in(decl, pd.Timestamp(ALLOCATION_DATE), ia_only=ia_only)
+    print("      screen (C) window: %d counties designated%s"
+          % (len(designated), " with Individual Assistance" if ia_only else ""))
     print("[4/5] Building Permits Survey (comparison series)")
     bps = bps_permits(by_type.get("place", set()), by_type.get("county", set()),
                       by_type.get("cousub", set()))
