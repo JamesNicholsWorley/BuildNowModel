@@ -353,6 +353,12 @@ def lp(ser, dmap, horizons=HORIZONS, p=3):
         rest = sorted(c for c in d.columns
                       if c.startswith("D") and c != "D0")
         out, n = fit(d, "dep", ["D0"] + rest)
+        if "D0" not in out:
+            # fit() drops collinear columns; on a short panel D0 can be one of
+            # them, and the horizon is then not identified rather than zero.
+            print("  h=%+d: treatment collinear after fixed effects, skipped"
+                  % h, flush=True)
+            continue
         b, se = out["D0"]
         rows.append({"h": h, "n": n, "beta": b, "beta_se": se})
     return pd.DataFrame(rows)
